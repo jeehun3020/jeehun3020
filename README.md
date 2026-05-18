@@ -55,9 +55,12 @@
   <tr>
     <td colspan="2" valign="top">
       <h4>📈 &nbsp;TrendDo &nbsp;·&nbsp; <img src="https://img.shields.io/badge/-%F0%9F%8F%86%20KHUTHON%202026%20%EC%9A%B0%EC%88%98%EC%83%81-6366f1?style=flat-square" align="center" /></h4>
+      <a href="https://jeehun3020.github.io/projects.html">
+        <img src="./assets/trendo-overview.jpg" width="100%" alt="TrendDo — 보는 유행을, 함께 해보는 문화로" />
+      </a>
       <sub><b>보는 유행을, 함께 해보는 문화로 바꾸는 AI 문화 순환 플랫폼.</b><br/>
       숏폼·알고리즘 유행을 세대별 언어로 번역하고 지역·전통문화와 융합해 ToDo 챌린지로 전환합니다.<br/>
-      <b>발견 → 이해 → 행동 → 재생산</b> 4단계 루프, LLM Structured Output + XAI 지역 매칭 + Safety Gate 운영 파이프라인. (4인 팀 프로젝트)</sub>
+      <b>발견 → 이해 → 행동 → 재생산</b> 4단계 루프, LLM Structured Output + XAI 지역 매칭 + Safety Gate 운영 파이프라인. (4인 팀 프로젝트: 김시은 · 윤정아 · 정지훈 · 한수민)</sub>
       <p>
         <img src="https://img.shields.io/badge/-React-6366f1?style=flat-square&logo=react&logoColor=white" />
         <img src="https://img.shields.io/badge/-TypeScript-7c3aed?style=flat-square&logo=typescript&logoColor=white" />
