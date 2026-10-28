@@ -1,13 +1,14 @@
-<!-- ============== Hero (custom animated SVG) ============== -->
 <a href="https://jeehun3020.github.io">
-  <img alt="Jihoon Jeong — Computer Vision & AI" src="./assets/hero.svg" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
+    <img alt="Jihoon Jeong — undergraduate researcher in compact computer vision at Kyonggi University. Latest paper: DR-SCA, Electronics 2026." src="./assets/hero-light.svg" width="100%" />
+  </picture>
 </a>
 
-<!-- ============== Typing rotator ============== -->
-<div align="center">
-  <a href="https://jeehun3020.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=800&color=6366F1&center=true&vCenter=true&width=620&height=44&lines=Computer+Vision+Researcher;AI+Engineer;Vision-Language+Multimodal+Learner;Efficient+On-Device+AI+Builder;Lifelong+Learner+%E2%9C%A8" alt="Roles" />
-  </a>
-</div>
-
-<br/>
+<p>
+  <a href="https://jeehun3020.github.io"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://jeehun3020.github.io/research.html">Research</a> &nbsp;·&nbsp;
+  <a href="https://doi.org/10.3390/electronics15194396">DR-SCA paper</a> &nbsp;·&nbsp;
+  <a href="https://jeehun3020.github.io/projects.html">Projects</a> &nbsp;·&nbsp;
+  <a href="mailto:jeehun3020@gmail.com">Email</a>
+</p>
